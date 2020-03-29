@@ -84,6 +84,7 @@
 		70884832242E1378008C22D8 = {
 			isa = PBXGroup;
 			children = (
+				705A5B8D2430F532005D6604 /* README.md */,
 				7088483D242E1378008C22D8 /* coctailDB */,
 				7088483C242E1378008C22D8 /* Products */,
 				4824438639CCF38003C3F0A9 /* Pods */,
@@ -102,7 +103,6 @@
 		7088483D242E1378008C22D8 /* coctailDB */ = {
 			isa = PBXGroup;
 			children = (
-				705A5B8D2430F532005D6604 /* README.md */,
 				7088483E242E1378008C22D8 /* AppDelegate.swift */,
 				70884840242E1378008C22D8 /* SceneDelegate.swift */,
 				7088485E242E1CF4008C22D8 /* Managers */,
